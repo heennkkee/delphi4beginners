@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.754,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.593,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.706,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi4Beginners.dproj=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Delphi4Beginners.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.482,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit2.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.593,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.859,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi4Beginners.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.482,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit2.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.490,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 13:32:21.548,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit2.pas=</Transaction>
+  <Transactions>
+    <Transaction>2017-09-08 13:44:37.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 13:44:37.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
+    <Transaction>2017-09-08 13:45:43.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm</Transaction>
+    <Transaction>2017-09-08 13:45:43.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas</Transaction>
+    <Transaction>2017-09-08 13:45:50.277,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 13:45:56.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
+    <Transaction>2017-09-08 13:45:56.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 14:01:15.705,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 14:01:21.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 14:01:21.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>

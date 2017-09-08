@@ -1,0 +1,39 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TfrmMyForm = class(TForm)
+    lblMyLabel: TLabel;
+    btnMyButtonEnable: TButton;
+    btnMyButtonDisable: TButton;
+    procedure btnMyButtonEnableClick(Sender: TObject);
+    procedure btnMyButtonDisableClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmMyForm: TfrmMyForm;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmMyForm.btnMyButtonDisableClick(Sender: TObject);
+begin
+  frmMyForm.lblMyLabel.Enabled := False;
+end;
+
+procedure TfrmMyForm.btnMyButtonEnableClick(Sender: TObject);
+begin
+  frmMyForm.lblMyLabel.Enabled := True;
+end;
+
+end.

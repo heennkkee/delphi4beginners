@@ -1,0 +1,38 @@
+unit untMainMenu;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,
+
+  unt1_1;
+
+type
+  TfrmOverview = class(TForm)
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmOverview: TfrmOverview;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmOverview.Button1Click(Sender: TObject);
+var
+  show : Tfrm1_1;
+begin
+  show := Tfrm1_1.Create(Self);
+  show.ShowModal;
+  show.Free;
+  show := nil;
+end;
+
+end.

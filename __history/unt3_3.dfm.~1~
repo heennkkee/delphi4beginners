@@ -1,7 +1,7 @@
-object Overview: TOverview
+object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Overview'
+  Caption = 'Form1'
   ClientHeight = 411
   ClientWidth = 852
   Color = clBtnFace
@@ -13,13 +13,4 @@ object Overview: TOverview
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Button1: TButton
-    Left = 8
-    Top = 8
-    Width = 75
-    Height = 25
-    Caption = 'Exercise 1.1'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
 end

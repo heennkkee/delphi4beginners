@@ -22,4 +22,31 @@ object frmOverview: TfrmOverview
     TabOrder = 0
     OnClick = Button1Click
   end
+  object Button2: TButton
+    Left = 97
+    Top = 8
+    Width = 75
+    Height = 25
+    Caption = 'Exercise 1.2'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 186
+    Top = 8
+    Width = 75
+    Height = 25
+    Caption = 'Exercise 1.3'
+    TabOrder = 2
+    OnClick = Button3Click
+  end
+  object Button4: TButton
+    Left = 273
+    Top = 8
+    Width = 75
+    Height = 25
+    Caption = 'Exercise 1.4'
+    TabOrder = 3
+    OnClick = Button4Click
+  end
 end

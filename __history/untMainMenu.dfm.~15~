@@ -65,7 +65,6 @@ object frmOverview: TfrmOverview
     Height = 25
     Caption = 'Exercise 3.2'
     TabOrder = 5
-    OnClick = Button6Click
   end
   object Button7: TButton
     Left = 186
@@ -74,6 +73,5 @@ object frmOverview: TfrmOverview
     Height = 25
     Caption = 'Exercise 3.3'
     TabOrder = 6
-    OnClick = Button7Click
   end
 end

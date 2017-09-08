@@ -1,7 +1,7 @@
-object Overview: TOverview
+object frm3_3: Tfrm3_3
   Left = 0
   Top = 0
-  Caption = 'Overview'
+  Caption = 'frm3_3'
   ClientHeight = 411
   ClientWidth = 852
   Color = clBtnFace

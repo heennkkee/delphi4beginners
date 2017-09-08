@@ -6,8 +6,7 @@ uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,
 
-  unt2_1, unt2_2, unt2_3, unt2_4,
-  unt3_1, unt3_2, unt3_3;
+  unt2_1, unt2_2, unt2_3, unt2_4;
 
 type
   TfrmOverview = class(TForm)
@@ -23,8 +22,6 @@ type
     procedure Button3Click(Sender: TObject);
     procedure Button4Click(Sender: TObject);
     procedure Button5Click(Sender: TObject);
-    procedure Button6Click(Sender: TObject);
-    procedure Button7Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -83,26 +80,6 @@ var
   frmShow : Tfrm3_1;
 begin
   frmShow := Tfrm3_1.Create(Self);
-  frmShow.ShowModal;
-  frmShow.Free;
-  frmShow := nil;
-end;
-
-procedure TfrmOverview.Button6Click(Sender: TObject);
-var
-  frmShow : Tfrm3_2;
-begin
-  frmShow := Tfrm3_2.Create(Self);
-  frmShow.ShowModal;
-  frmShow.Free;
-  frmShow := nil;
-end;
-
-procedure TfrmOverview.Button7Click(Sender: TObject);
-var
-  frmShow : Tfrm3_3;
-begin
-  frmShow := Tfrm3_3.Create(Self);
   frmShow.ShowModal;
   frmShow.Free;
   frmShow := nil;

@@ -74,6 +74,5 @@ object frmOverview: TfrmOverview
     Height = 25
     Caption = 'Exercise 3.3'
     TabOrder = 6
-    OnClick = Button7Click
   end
 end

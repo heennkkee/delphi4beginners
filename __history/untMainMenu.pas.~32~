@@ -35,7 +35,7 @@ procedure TfrmOverview.Button1Click(Sender: TObject);
 var
   show : Tfrm2_1;
 begin
-  show := Tfrm2_1.Create(Self);
+  show := Tfrm1_1.Create(Self);
   show.ShowModal;
   show.Free;
   show := nil;
@@ -45,7 +45,7 @@ procedure TfrmOverview.Button2Click(Sender: TObject);
 var
   show : Tfrm2_2;
 begin
-  show := Tfrm2_2.Create(Self);
+  show := Tfrm1_2.Create(Self);
   show.ShowModal;
   show.Free;
   show := nil;
@@ -55,7 +55,7 @@ procedure TfrmOverview.Button3Click(Sender: TObject);
 var
   show : Tfrm2_3;
 begin
-  show := Tfrm2_3.Create(Self);
+  show := Tfrm1_3.Create(Self);
   show.ShowModal;
   show.Free;
   show := nil;
@@ -65,7 +65,7 @@ procedure TfrmOverview.Button4Click(Sender: TObject);
 var
   show: Tfrm2_4;
 begin
-  show := Tfrm2_4.Create(Self);
+  show := Tfrm1_4.Create(Self);
   show.ShowModal;
   show.Free;
   show := nil;

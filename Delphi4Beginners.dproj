@@ -103,17 +103,21 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="unt1_1.pas">
-            <Form>frm1_1</Form>
-            <FormType>dfm</FormType>
+        <DCCReference Include="unt2_1.pas">
+            <Form>frm2_1</Form>
         </DCCReference>
         <DCCReference Include="untMainMenu.pas">
             <Form>frmOverview</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="unt1_2.pas">
-            <Form>frm1_2</Form>
-            <FormType>dfm</FormType>
+        <DCCReference Include="unt2_2.pas">
+            <Form>frm2_2</Form>
+        </DCCReference>
+        <DCCReference Include="unt2_3.pas">
+            <Form>frm2_3</Form>
+        </DCCReference>
+        <DCCReference Include="unt2_4.pas">
+            <Form>frm2_4</Form>
         </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>

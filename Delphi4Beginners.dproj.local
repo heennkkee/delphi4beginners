@@ -1,15 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2017-09-08 13:44:37.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 13:44:37.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
-    <Transaction>2017-09-08 13:45:43.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm</Transaction>
-    <Transaction>2017-09-08 13:45:43.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas</Transaction>
-    <Transaction>2017-09-08 13:45:50.277,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 13:45:56.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
-    <Transaction>2017-09-08 13:45:56.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 14:01:15.705,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 14:01:21.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
-    <Transaction>2017-09-08 14:01:21.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.338,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.485,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMainMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.705,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.130,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\untMyUnit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.277,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.911,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.pas</Transaction>
+    <Transaction>2017-09-08 14:53:57.539,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 14:54:59.627,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_3.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
+    <Transaction>2017-09-08 14:54:59.627,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_3.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 15:07:34.298,=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 15:07:39.920,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_4.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.dfm</Transaction>
+    <Transaction>2017-09-08 15:07:39.920,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_4.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\Unit1.pas</Transaction>
+    <Transaction>2017-09-08 15:33:04.349,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_1.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.dfm</Transaction>
+    <Transaction>2017-09-08 15:33:04.349,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_1.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_1.pas</Transaction>
+    <Transaction>2017-09-08 15:33:40.645,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_3.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_3.dfm</Transaction>
+    <Transaction>2017-09-08 15:33:40.645,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_3.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_3.pas</Transaction>
+    <Transaction>2017-09-08 15:33:45.490,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_2.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.dfm</Transaction>
+    <Transaction>2017-09-08 15:33:45.490,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_2.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_2.pas</Transaction>
+    <Transaction>2017-09-08 15:33:50.425,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_4.dfm=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_4.dfm</Transaction>
+    <Transaction>2017-09-08 15:33:50.425,C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt2_4.pas=C:\Users\henaro\Documents\Embarcadero\Studio\Projects\Delphi Programming 4 beginners\unt1_4.pas</Transaction>
   </Transactions>
 </BorlandProject>

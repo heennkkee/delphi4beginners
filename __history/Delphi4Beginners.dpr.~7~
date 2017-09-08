@@ -16,8 +16,8 @@ begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.CreateForm(TfrmOverview, frmOverview);
-  Application.CreateForm(Tfrm2_2, frm2_2);
-  Application.CreateForm(Tfrm2_3, frm2_3);
-  Application.CreateForm(Tfrm2_4, frm2_4);
+  Application.CreateForm(Tfrm1_2, frm1_2);
+  Application.CreateForm(Tfrm1_3, frm1_3);
+  Application.CreateForm(Tfrm1_4, frm1_4);
   Application.Run;
 end.

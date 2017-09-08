@@ -2,11 +2,11 @@ program Delphi4Beginners;
 
 uses
   Vcl.Forms,
-  unt2_1 in 'unt2_1.pas' {frm2_1},
+  unt2_1 in 'unt2_1.pas' {frm1_1},
   untMainMenu in 'untMainMenu.pas' {frmOverview},
-  unt2_2 in 'unt2_2.pas' {frm2_2},
-  unt2_3 in 'unt2_3.pas' {frm2_3},
-  unt2_4 in 'unt2_4.pas' {frm2_4};
+  unt2_2 in 'unt2_2.pas' {frm1_2},
+  unt2_3 in 'unt2_3.pas' {frm1_3},
+  unt2_4 in 'unt2_4.pas' {frm1_4};
 
 {$R *.res}
 
@@ -16,8 +16,8 @@ begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.CreateForm(TfrmOverview, frmOverview);
-  Application.CreateForm(Tfrm2_2, frm2_2);
-  Application.CreateForm(Tfrm2_3, frm2_3);
-  Application.CreateForm(Tfrm2_4, frm2_4);
+  Application.CreateForm(Tfrm1_2, frm1_2);
+  Application.CreateForm(Tfrm1_3, frm1_3);
+  Application.CreateForm(Tfrm1_4, frm1_4);
   Application.Run;
 end.

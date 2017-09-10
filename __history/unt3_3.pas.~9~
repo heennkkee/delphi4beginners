@@ -13,7 +13,6 @@ type
     lblMPS: TLabel;
     lblKMPH: TLabel;
     procedure edtMPSKeyUp(Sender: TObject; var Key: Word; Shift: TShiftState);
-    procedure edtKMPHKeyUp(Sender: TObject; var Key: Word; Shift: TShiftState);
   private
     { Private declarations }
   public
@@ -34,21 +33,9 @@ begin
   result := dMps * 3.6;
 end;
 
-procedure Tfrm3_3.edtKMPHKeyUp(Sender: TObject; var Key: Word;
-  Shift: TShiftState);
-var
-  dMps, dKmph : double;
-begin
-  dKmph := StrToFloat(self.edtKMPH.Text);
-
-  dMps := self.KMPHToMPS(dKmph);
-
-  self.edtMPS.Text := FloatToStr(dMps);
-end;
-
 procedure Tfrm3_3.edtMPSKeyUp(Sender: TObject; var Key: Word;
   Shift: TShiftState);
-var
+  var
   dMps, dKmph : double;
 begin
   dMps := StrToFloat(self.edtMPS.Text);

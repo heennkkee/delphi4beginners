@@ -36,11 +36,10 @@ procedure Tfrm3_2.edtCelsiusKeyUp(Sender: TObject; var Key: Word;
 var
   dFahr, dCels : double;
 begin
-  // Validate value firts, is actually OK double?
   dCels := StrToFloat(self.edtCelsius.Text);
-  // Do calculation
+
   dFahr := self.CelsiusToFahr(dCels);
-  //no checks here needed, if value entered is OK value out is OK.
+
   self.edtFahrenheit.Text := FloatToStr(dFahr);
 end;
 

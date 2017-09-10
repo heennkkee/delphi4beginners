@@ -12,10 +12,8 @@ type
     edtFahrenheit: TEdit;
     lblCelsius: TLabel;
     lblFahrenheit: TLabel;
-    procedure edtFahrenheitKeyUp(Sender: TObject; var Key: Word;
-      Shift: TShiftState);
-    procedure edtCelsiusKeyUp(Sender: TObject; var Key: Word;
-      Shift: TShiftState);
+    procedure edtCelsiusChange(Sender: TObject);
+    procedure edtFahrenheitChange(Sender: TObject);
   private
     { Private declarations }
   public
@@ -31,25 +29,21 @@ implementation
 
 {$R *.dfm}
 
-procedure Tfrm3_2.edtCelsiusKeyUp(Sender: TObject; var Key: Word;
-  Shift: TShiftState);
+procedure Tfrm3_2.edtCelsiusChange(Sender: TObject);
 var
   dFahr, dCels : double;
 begin
-  // Validate value firts, is actually OK double?
   dCels := StrToFloat(self.edtCelsius.Text);
-  // Do calculation
+
   dFahr := self.CelsiusToFahr(dCels);
-  //no checks here needed, if value entered is OK value out is OK.
+
   self.edtFahrenheit.Text := FloatToStr(dFahr);
 end;
 
-procedure Tfrm3_2.edtFahrenheitKeyUp(Sender: TObject; var Key: Word;
-  Shift: TShiftState);
-var
+procedure Tfrm3_2.edtFahrenheitChange(Sender: TObject);
   dFahr, dCels : double;
 begin
-  dFahr := StrToFloat(self.edtFahrenheit.Text);
+  dFahr := StrToFloar(self.edtFahrenheit.Text);
 
   dCels := self.FahrToCelsius(dFahr);
 

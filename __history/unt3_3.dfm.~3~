@@ -27,22 +27,20 @@ object frm3_3: Tfrm3_3
     Height = 13
     Caption = 'km/h'
   end
-  object edtKMPH: TEdit
+  object Edit1: TEdit
     Left = 8
     Top = 24
     Width = 121
     Height = 21
     TabOrder = 0
-    Text = '0,00'
-    OnKeyUp = edtKMPHKeyUp
+    Text = 'Edit1'
   end
-  object edtMPS: TEdit
+  object Edit2: TEdit
     Left = 168
     Top = 24
     Width = 121
     Height = 21
     TabOrder = 1
-    Text = '0,00'
-    OnKeyUp = edtMPSKeyUp
+    Text = 'Edit2'
   end
 end

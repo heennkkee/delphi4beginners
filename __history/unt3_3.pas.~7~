@@ -1,0 +1,40 @@
+unit unt3_3;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  Tfrm3_3 = class(TForm)
+    Edit1: TEdit;
+    Edit2: TEdit;
+    lblMPS: TLabel;
+    lblKMPH: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    function MPSToKMPH(dMps : double) : double;
+    function KMPHToMPS(dKmph : double) : double;
+  end;
+
+var
+  frm3_3: Tfrm3_3;
+
+implementation
+
+{$R *.dfm}
+
+function Tfrm3_3.MPSToKMPH(dMps: Double) : double;
+begin
+  result := dMps * 3.6;
+end;
+
+function Tfrm3_3.KMPHToMPS(dKmph: Double) : double;
+begin
+  result := dKmph / 3.6;
+end;
+
+end.

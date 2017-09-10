@@ -34,7 +34,7 @@ object frm3_2: Tfrm3_2
     Height = 21
     TabOrder = 0
     Text = '0,00'
-    OnKeyUp = edtCelsiusKeyUp
+    OnChange = edtCelsiusChange
   end
   object edtFahrenheit: TEdit
     Left = 171
